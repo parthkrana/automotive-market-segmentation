@@ -1,4 +1,4 @@
-# Used Car Vehicles Analysis Project in R 
+# Automotive Market Segmentation Project in R 
 
 ## Summary
 
